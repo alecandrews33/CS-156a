@@ -1,2 +1,2 @@
-# CS-156a-
+# CS-156a
 Learning Systems
