@@ -1,0 +1,1 @@
+Assignment 2 contains a coin flip simulator and corresponding results. It also includes an implementation of linear regression and a nonlinear transformation used on data that isn't linearly separable.
